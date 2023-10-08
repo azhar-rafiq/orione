@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/azhar-rafiq/orione/blob/master/images/logo.png" height="200px" />
+<img src="https://github.com/azhar-rafiq/orione/blob/main/images/logo.png" height="200px" />
 </div><div>
 
 # ORYX by Orione
@@ -39,4 +39,4 @@ Server-side:
 ## Screenshoot
 
 <div align="center">
-<img src="https://github.com/azhar-rafiq/orione/blob/master/images/ss1.png"  /></div>
+<img src="https://github.com/azhar-rafiq/orione/blob/main/images/ss1.png"  /></div>
