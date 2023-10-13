@@ -6,7 +6,6 @@
 💡SEE OUR GOOGLE DRIVE FOLDER for this project: 
 <a href="https://drive.google.com/drive/folders/1IBtczQnUGU_jmjp1TET2GtEgCNRtROgI">https://drive.google.com/drive/folders/1IBtczQnUGU_jmjp1TET2GtEgCNRtROgI</a>
 
-Advanced AI Chatbot for people struggling through depression trained and modeled by our team.
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-26a8ff?logo=flutter&logoColor=white&style=flat" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-327ba8?logo=dart&logoColor=white&style=flat" />
